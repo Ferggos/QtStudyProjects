@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/ThreadGraph/">
-    <file alias="Main.qml">/home/ferggo/ThreadGraph/Main.qml</file>
-  </qresource>
-</RCC>
-
