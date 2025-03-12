@@ -1,4 +1,4 @@
-## Studi Projects with using Qt C++
+## Study Projects with using Qt C++
 
 ###### 1) Graph task - [Посмотреть задание](Graph/task.md)
 ###### 2) ThreadGraph task - [Посмотреть задание](ThreadGraph/task.md)
