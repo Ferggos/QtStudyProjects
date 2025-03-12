@@ -1,9 +1,0 @@
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/SQLXMLWriting.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/install.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/SQLXMLWriting_autogen_timestamp_deps.dir
-/home/ferggo/CPP/Qt/SQLXMLWriting/build/Desktop-Debug/CMakeFiles/SQLXMLWriting_autogen.dir
