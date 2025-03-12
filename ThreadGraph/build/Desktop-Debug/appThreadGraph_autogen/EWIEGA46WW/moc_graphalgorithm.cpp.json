@@ -1,0 +1,70 @@
+{
+    "classes": [
+        {
+            "className": "GraphAlgorithm",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "calculateMaxFlow",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "maxFlow",
+                    "notify": "maxFlowChanged",
+                    "read": "maxFlow",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "minCut",
+                    "notify": "minCutChanged",
+                    "read": "minCut",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "GraphAlgorithm",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "maxFlowChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "minCutChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "graphalgorithm.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,12 @@
+--bare
+-I
+/home/ferggo/ThreadGraph/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/ferggo/ThreadGraph/build/Desktop-Debug/.qt/rcc/qmake_ThreadGraph.qrc
+--resource
+/home/ferggo/ThreadGraph/build/Desktop-Debug/.qt/rcc/appThreadGraph_raw_qml_0.qrc
+/home/ferggo/ThreadGraph/Main.qml
+--json
+/home/ferggo/ThreadGraph/build/Desktop-Debug/appThreadGraph_qmllint.json

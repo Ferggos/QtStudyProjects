@@ -1,0 +1,14 @@
+-rootPath
+/home/ferggo/ThreadGraph
+-cmake-output
+-output-file
+/home/ferggo/ThreadGraph/build/Desktop-Debug/.qt/qml_imports/appThreadGraph_build.cmake
+-importPath
+/home/ferggo/ThreadGraph/build/Desktop-Debug/ThreadGraph
+-importPath
+/home/ferggo/ThreadGraph/build/Desktop-Debug
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/ferggo/ThreadGraph/build/Desktop-Debug/.qt/rcc/qmake_ThreadGraph.qrc
+/home/ferggo/ThreadGraph/build/Desktop-Debug/.qt/rcc/appThreadGraph_raw_qml_0.qrc

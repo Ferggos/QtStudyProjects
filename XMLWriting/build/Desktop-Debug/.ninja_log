@@ -1,0 +1,17 @@
+# ninja log v6
+2	32	1732652784506985035	XMLWriting_autogen/timestamp	68effe6feb9f5807
+2	32	1732652784506985035	XMLWriting_autogen/mocs_compilation.cpp	68effe6feb9f5807
+2	32	1732652784506985035	/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/XMLWriting_autogen/mocs_compilation.cpp	68effe6feb9f5807
+2	32	1732652784506985035	/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/XMLWriting_autogen/timestamp	68effe6feb9f5807
+1393	1630	1732652803630402384	XMLWriting	1c3b5c3975b17ced
+118	474	1732202700381264917	CMakeFiles/XMLWriting.dir/classes.cpp.o	f14bb88060cb6536
+119	1284	1732271378165885784	CMakeFiles/XMLWriting.dir/records.cpp.o	abb039264bb91f47
+1	1393	1732652802240396273	CMakeFiles/XMLWriting.dir/mainwindow.cpp.o	3faf69ff5fbd3cb3
+119	1300	1732271378165885784	CMakeFiles/XMLWriting.dir/XMLWriting_autogen/mocs_compilation.cpp.o	d3767fa6a3a0b19c
+119	1348	1732271378165885784	CMakeFiles/XMLWriting.dir/main.cpp.o	4edcf91dbe8971f9
+2	50	1732871400795011343	build.ninja	99917ca2bec5e1de
+20	43	1733666924169550722	XMLWriting_autogen/timestamp	68effe6feb9f5807
+20	43	1733666924169550722	XMLWriting_autogen/mocs_compilation.cpp	68effe6feb9f5807
+20	43	1733666924169550722	/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/XMLWriting_autogen/timestamp	68effe6feb9f5807
+20	43	1733666924169550722	/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/XMLWriting_autogen/mocs_compilation.cpp	68effe6feb9f5807
+43	55	1733666924176217578	CMakeFiles/XMLWriting.dir/XMLWriting_autogen/mocs_compilation.cpp.o	d3767fa6a3a0b19c

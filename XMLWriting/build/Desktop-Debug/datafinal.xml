@@ -1,0 +1,21 @@
+<StudentRecords>
+    <Specialities>
+        <Speciality code="1" name="Прикладная информатика"/>
+    </Specialities>
+    <Groups>
+        <Group code="1" name="БЭИ2201" specialityCode="1"/>
+        <Group code="1" name="БВТ2202" specialityCode="1"/>
+    </Groups>
+    <Students>
+        <Student code="1" name="Иванов Иван Иванович" recordBookNumber="БЭИ22076" birthDate="2005-01-26" groupCode="1"/>
+    </Students>
+    <Teachers>
+        <Teacher code="1" staffNumber="238283" name="Романов Роман Романович" department="Информатика" position="Доцент"/>
+    </Teachers>
+    <Disciplines>
+        <Discipline code="1" name="ИТИП" lectureHours="240" practiceHours="130" labHours="50" semester="2"/>
+    </Disciplines>
+    <Performances>
+        <Performance recordCode="1" disciplineCode="1" teacherCode="1" studentCode="1" formOfControl="Экзамен" grade="4" submissionDate="2024-01-26"/>
+    </Performances>
+</StudentRecords>

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ThreadGraph">/home/ferggo/ThreadGraph/build/Desktop-Debug/ThreadGraph</file>
+
+  </qresource>
+</RCC>

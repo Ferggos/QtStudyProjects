@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6465196f69f1c2edddd4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThreadGraph",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-6139cec0584ee2f83ed7.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c337ee3d9967d6ceffb5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bd43b83f5e62edf678ca.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-39b7b61d6f2c70bbf470.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-28d9e87aa020112196b2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph-Debug-3d1f96c61796f729c1f7.json",
+					"name" : "appThreadGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_autogen-Debug-4531a550ee71f7a7d654.json",
+					"name" : "appThreadGraph_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_autogen_timestamp_deps-Debug-a8178bccf12616bcabf5.json",
+					"name" : "appThreadGraph_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_qmlimportscan-Debug-57812f02a6b0fb4228fd.json",
+					"name" : "appThreadGraph_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_qmllint-Debug-d89312498f42ac072683.json",
+					"name" : "appThreadGraph_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_qmllint_json-Debug-77abd96f61308243a8bb.json",
+					"name" : "appThreadGraph_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_qmllint_module-Debug-921321ab65aa60fb905a.json",
+					"name" : "appThreadGraph_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_qmltyperegistration-Debug-843104e3656659aa010e.json",
+					"name" : "appThreadGraph_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appThreadGraph_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appThreadGraph_tooling-Debug-15b830dd088ee44932f5.json",
+					"name" : "appThreadGraph_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appThreadGraph_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appThreadGraph_aotstats_targets-Debug-b24a08cac0d04b6092a3.json",
+					"name" : "module_appThreadGraph_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ferggo/ThreadGraph/build/Desktop-Debug",
+		"source" : "/home/ferggo/ThreadGraph"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

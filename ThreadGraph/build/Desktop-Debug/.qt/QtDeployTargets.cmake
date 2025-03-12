@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appThreadGraph_FILE /home/ferggo/ThreadGraph/build/Desktop-Debug/appThreadGraph)
+set(__QT_DEPLOY_TARGET_appThreadGraph_TYPE EXECUTABLE)

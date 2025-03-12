@@ -1,0 +1,9 @@
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/XMLWriting.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/install.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/XMLWriting_autogen_timestamp_deps.dir
+/home/ferggo/CPP/Qt/XMLWriting/build/Desktop-Debug/CMakeFiles/XMLWriting_autogen.dir
